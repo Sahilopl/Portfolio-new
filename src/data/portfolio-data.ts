@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "SAHIL ADHIKARI",
-  title: "Computer Science Student & Data Science Intern",
+  title: "Computer Science Student",
   location: "Chennai, India",
   email: "sahiladhikari6412@gmail.com",
   phone: "8287264851",
